@@ -1,4 +1,5 @@
-# Customer-Statistics-Superstore-Sales: Project 2: Customer Statistics Superstore Sales
+# Customer-Statistics-Superstore-Sales: Project 
+2: Customer Statistics Superstore Sales
 Skills Covered: EDA in Tableau and Data Visualization (Tableau)
 
 
