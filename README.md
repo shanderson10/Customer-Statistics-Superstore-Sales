@@ -1,10 +1,3 @@
-Project 2: Customer Statistics Superstore Sales
-Skills Covered: EDA in Tableau and Data Visualization (Tableau)
-Assets: Tableau Public Dashboard
-https://drive.google.com/file/d/1omlu7lFMDXOmO4SPyPLjfp8X6ZZCPnSD/view
-
-README: Superstore Customer & Sales Analysis
-
 # Project 2: Customer Statistics & Superstore Sales Analysis
 
 ## Overview
